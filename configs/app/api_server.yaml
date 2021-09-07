@@ -1,0 +1,28 @@
+secrets-data:
+  access-secret: ""
+  refresh-secret: ""
+  random-secret: "fasfsafasfsafhhfsadbhj"
+
+server-data:
+  host: ""
+  port: "8080"
+
+redis-data:
+  addr: "localhost:6379"
+  password: ""
+
+postgresql-data:
+  user: "postgres"
+  password: "postgres"
+  db-name: "web_forum_db"
+  port: "5432"
+  host: "localhost"
+  sslmode: "disable"
+
+s3-data:
+  access-key-id: "gesoWCRHrtLmPrYo5mqFnD"
+  secret-access-key: "37rL5BJcyLiicT4FHvNgkmXPQcmH7q1ZAGhjYomz8NUd"
+  region: "eu-north-1"
+  bucket: "meety"
+  acl: "public-read"
+  endpoint: "hb.bizmrg.com"
